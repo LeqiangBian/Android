@@ -6,3 +6,4 @@ https://git.embedded.rwth-aachen.de/rtandroid/downloads/raspberry-pi/  rtandroi
 https://androidappsapk.co/apkdownloader/   goole play app下载链接
 https://www.youtube.com/watch?v=SI2oFBkc6EA  rtandroid视频教程
 https://github.com/android-notes/SwissArmyKnife   界面的调试工具
+https://github.com/kaushikgopal/RxJava-Android-Samples  rxjava demo

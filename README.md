@@ -12,3 +12,5 @@ https://www.youtube.com/watch?v=SI2oFBkc6EA  rtandroid视频教程
 https://github.com/android-notes/SwissArmyKnife   界面的调试工具
 
 https://github.com/kaushikgopal/RxJava-Android-Samples  rxjava demo
+
+https://my.oschina.net/oldfeel/blog/349605   Vysor  AirDroid   远程手机

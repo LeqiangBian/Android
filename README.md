@@ -50,3 +50,16 @@ ultra pull to refresh 刷新动画  线条的那种
 微视界 
 wcl-permission-demo 权限 不点击授权进不去
 掌刀  一个dota的咨询类app
+
+
+androidstudio  jar包
+
+task makeJar(type: Copy) {
+    delete 'build/libs/mysdk.jar'
+    from('build/intermediates/bundles/release/')
+    into('build/libs/')
+    include('classes.jar')
+    rename ('classes.jar', 'mysdk.jar')
+}
+
+makeJar.dependsOn(build)

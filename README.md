@@ -66,3 +66,6 @@ makeJar.dependsOn(build)
 
 
 http://www.cnblogs.com/lr393993507/p/5543049.html   手机摇一摇
+
+http://www.jcodecraeer.com/a/opensource/2016/0819/6554.html
+http://download.csdn.net/detail/vipzjyno1/7295005       上面的和这个是可拖动的gridView

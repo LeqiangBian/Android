@@ -63,3 +63,6 @@ task makeJar(type: Copy) {
 }
 
 makeJar.dependsOn(build)
+
+
+http://www.cnblogs.com/lr393993507/p/5543049.html   手机摇一摇

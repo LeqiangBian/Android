@@ -70,3 +70,6 @@ http://www.cnblogs.com/lr393993507/p/5543049.html   手机摇一摇
 http://www.jcodecraeer.com/a/opensource/2016/0819/6554.html
 http://download.csdn.net/detail/vipzjyno1/7295005       上面的和这个是可拖动的gridView
 http://mtc.baidu.com/site/app?_if=691788-mtcappkw000397_25-fcmtc11_50-mtcApp11   百度真机测试有免费的
+
+https://github.com/youlookwhat/CloudReader   网易云音乐
+http://www.kancloud.cn/book/rulang/travel/edit   看云   加U

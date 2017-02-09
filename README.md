@@ -73,3 +73,5 @@ http://mtc.baidu.com/site/app?_if=691788-mtcappkw000397_25-fcmtc11_50-mtcApp11 �
 
 https://github.com/youlookwhat/CloudReader   网易云音乐
 http://www.kancloud.cn/book/rulang/travel/edit   看云   加U
+
+android:descendantFocusability="blocksDescendants"  触摸事件

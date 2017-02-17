@@ -75,3 +75,5 @@ https://github.com/youlookwhat/CloudReader   网易云音乐
 http://www.kancloud.cn/book/rulang/travel/edit   看云   加U
 
 android:descendantFocusability="blocksDescendants"  触摸事件
+
+http://www.cnblogs.com/xunzhi/p/5794793.html  冷启动,热启动

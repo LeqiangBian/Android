@@ -77,3 +77,5 @@ http://www.kancloud.cn/book/rulang/travel/edit   看云   加U
 android:descendantFocusability="blocksDescendants"  触摸事件
 
 http://www.cnblogs.com/xunzhi/p/5794793.html  冷启动,热启动
+
+http://www.jianshu.com/u/03be02d3e424   陈利健

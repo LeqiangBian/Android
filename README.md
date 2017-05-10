@@ -1,6 +1,8 @@
 # Android
 Android开发的日常积累   长期更新中...
 
+https://github.com/googlesamples?language=java   跟着google走
+
 http://blog.csdn.net/c15522627353/article/details/52452490   解决华为p8青春版等手机导航栏遮挡应用内容的问题
 
 https://git.embedded.rwth-aachen.de/rtandroid/downloads/raspberry-pi/  rtandroid 玩转树莓派
@@ -85,3 +87,5 @@ https://github.com/googlesamples
 http://blog.csdn.net/qq_23547831/article/details/52857346 一篇博客带你入门kotlin
 
 http://blog.csdn.net/huangxiaominglipeng/article/details/52525996 android 快捷键
+
+

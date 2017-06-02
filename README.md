@@ -92,3 +92,5 @@ http://blog.csdn.net/huangxiaominglipeng/article/details/52525996 android 快捷
 https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis  android源码分析
 
 https://www.pingxx.com/docs/client/one/android  益收款
+
+https://github.com/coloz/Serial-Assistant  参考hex烧入板子

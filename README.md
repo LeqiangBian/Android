@@ -96,3 +96,5 @@ https://www.pingxx.com/docs/client/one/android  益收款
 https://github.com/coloz/Serial-Assistant  参考hex烧入板子
 
 http://blog.csdn.net/fancylovejava/article/details/39643449   这个是解决activity黑白屏的问题  还有activity的切换动画
+
+http://blog.csdn.net/vipzjyno1/article/details/21042823  混淆

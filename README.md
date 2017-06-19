@@ -104,3 +104,7 @@ http://xiaoyaozjl.iteye.com/blog/2178415  获取分辨率
 https://down.52pojie.cn/Tools/Disassemblers/  IDA pro反编译
 
 http://blog.csdn.net/elsa_rong/article/details/47005129 android OTG开发
+
+http://www.arduinodroid.info/ 这个是arduinodroid的官方ide
+
+http://blog.csdn.net/u014088294/article/details/51441394  jni  .c  .a

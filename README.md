@@ -102,3 +102,5 @@ http://blog.csdn.net/vipzjyno1/article/details/21042823  混淆
 http://xiaoyaozjl.iteye.com/blog/2178415  获取分辨率
 
 https://down.52pojie.cn/Tools/Disassemblers/  IDA pro反编译
+
+http://blog.csdn.net/elsa_rong/article/details/47005129 android OTG开发

@@ -2,6 +2,7 @@
 Android开发的日常积累   长期更新中...
 
 https://github.com/google?language=java
+
 https://github.com/googlesamples?language=java   跟着google走
 
 http://blog.csdn.net/c15522627353/article/details/52452490   解决华为p8青春版等手机导航栏遮挡应用内容的问题
@@ -23,35 +24,64 @@ https://github.com/blindmonk/Android/blob/master/README.md 别人总结的androi
 http://chapter2.zhuishushenqi.com/chapter/{url}  追书神器接口,网页小说格式转换
 
 archi
+
 bottomsheet sample   从下面弹出来的dialog
+
 cheesesquare      比较好的  tabtool  就是头的那个
+
 DAILY  同上
+
 demo  一个下拉不断动画的漂亮recycleview动画在md里面   配置低 卡
+
 draggable panel 下拉动画视屏
+
 dylan 计步
+
 effectiveandroidui 和draggable panel  一样 的效果
+
 fabloading 京剧
+
 fast_v2 融云的小demo
+
 floating action button 
+
 fragmentation
+
 geeknews  (里面有个干货集中营  挺有意思)
+
 https://github.com/lawloretienne/TinderStack 卡片
+
 gensignature 获取微信签名工具
+
 listview sample (listview gridview recycleview)
+
 livedemo直播
+
 material view pager 一个风格漂亮的viewpager
+
 material - animations 风格漂亮的界面动画跳转
+
 mpandroidchart example 折线图
 okgo 
+
 搜图神器  一个搜图片的app 
+
 sealtalk 嗨豹 融合做的微信
+
 searchmenuanim 搜索动画 放大镜变形
+
 shapeimage 边框 圆角 iamgeview
+
 simplenews  新闻
+
 testselection  6.0代码
+
 ultra pull to refresh 刷新动画  线条的那种
+
 微视界 
+
 wcl-permission-demo 权限 不点击授权进不去
+
 掌刀  一个dota的咨询类app
 
 
@@ -71,10 +101,13 @@ makeJar.dependsOn(build)
 http://www.cnblogs.com/lr393993507/p/5543049.html   手机摇一摇
 
 http://www.jcodecraeer.com/a/opensource/2016/0819/6554.html
+
 http://download.csdn.net/detail/vipzjyno1/7295005       上面的和这个是可拖动的gridView
+
 http://mtc.baidu.com/site/app?_if=691788-mtcappkw000397_25-fcmtc11_50-mtcApp11   百度真机测试有免费的
 
 https://github.com/youlookwhat/CloudReader   网易云音乐
+
 http://www.kancloud.cn/book/rulang/travel/edit   看云   加U
 
 android:descendantFocusability="blocksDescendants"  触摸事件

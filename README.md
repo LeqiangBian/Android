@@ -145,3 +145,5 @@ http://blog.csdn.net/u014088294/article/details/51441394  jni  .c  .a
 https://github.com/arduino/Arduino    arduino开源地址
 
 https://www.arduino.cc/en/Main/Software   这个是arduino的代码 多平台 用java写的
+
+http://www.beanshell.org/download.html   Java中利用Interpreter动态编译实现eval

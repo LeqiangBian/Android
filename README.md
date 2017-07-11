@@ -149,3 +149,5 @@ https://www.arduino.cc/en/Main/Software   这个是arduino的代码 多平台 �
 http://www.beanshell.org/download.html   Java中利用Interpreter动态编译实现eval
 
 https://github.com/LeqiangBian/androidWheelView  这个是wheelview
+
+http://www.jb51.net/article/76466.htm   属性动画讲的特别全面

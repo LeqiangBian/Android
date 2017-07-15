@@ -155,3 +155,5 @@ http://www.jb51.net/article/76466.htm   属性动画讲的特别全面
 http://grepcode.com/file/repository.grepcode.com/java/ext/com.google.android/android/5.1.1_r1/android/app/Activity.java#Activity.onTouchEvent%28android.view.MotionEvent%29   源码在线
 
 http://www.gcssloop.com/tips/arratlist-linkedlist-performance  ArrayList与LinkedList遍历性能比较
+
+https://github.com/XX-net/XX-Net  翻墙软件 http://blog.csdn.net/q0a0q/article/details/52614309 

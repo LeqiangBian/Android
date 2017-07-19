@@ -157,3 +157,5 @@ http://grepcode.com/file/repository.grepcode.com/java/ext/com.google.android/and
 http://www.gcssloop.com/tips/arratlist-linkedlist-performance  ArrayList与LinkedList遍历性能比较
 
 https://github.com/XX-net/XX-Net  翻墙软件 http://blog.csdn.net/q0a0q/article/details/52614309 
+
+https://github.com/juyp1/shadowsocks/blob/master/ss%E8%B4%A6%E5%8F%B7.txt  vpn

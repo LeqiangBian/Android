@@ -159,3 +159,5 @@ http://www.gcssloop.com/tips/arratlist-linkedlist-performance  ArrayList与Link
 https://github.com/XX-net/XX-Net  翻墙软件 http://blog.csdn.net/q0a0q/article/details/52614309 
 
 https://github.com/juyp1/shadowsocks/blob/master/ss%E8%B4%A6%E5%8F%B7.txt  vpn
+
+http://www.cnblogs.com/hanyinglong/p/5024643.html   这个是myeclipse配置  导出和tomcat配置

@@ -163,3 +163,5 @@ https://github.com/juyp1/shadowsocks/blob/master/ss%E8%B4%A6%E5%8F%B7.txt  vpn
 http://www.cnblogs.com/hanyinglong/p/5024643.html   这个是myeclipse配置  导出和tomcat配置
 
 http://nginx.org/   nginx服务器
+
+http://blog.csdn.net/arybd/article/details/50578087   这个是intellij  的配置方法

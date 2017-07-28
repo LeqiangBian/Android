@@ -167,3 +167,5 @@ http://nginx.org/   nginx服务器
 http://blog.csdn.net/arybd/article/details/50578087   这个是intellij  的配置方法
 
 rubymine 开启第一个项目  http://www.cnblogs.com/kongxianghai/archive/2013/05/14/3076116.html
+
+https://github.com/gitlabhq/gitlab-recipes   gitlab 用ruby写的

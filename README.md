@@ -171,3 +171,5 @@ rubymine 开启第一个项目  http://www.cnblogs.com/kongxianghai/archive/2013
 https://github.com/gitlabhq/gitlab-recipes   gitlab 用ruby写的
 
 http://www.jianshu.com/p/065355a731ee
+
+https://github.com/lifei6671/mindoc   wiki百科

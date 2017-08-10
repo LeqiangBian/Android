@@ -180,3 +180,4 @@ https://github.com/shadowsocks/shadowsocks-windows  dong
 
 https://github.com/Makeblock-official/mBlock  电脑makeblock
 
+https://github.com/Tencent/tinker   腾讯热修复

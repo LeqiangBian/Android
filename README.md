@@ -175,3 +175,6 @@ http://www.jianshu.com/p/065355a731ee
 https://github.com/lifei6671/mindoc   wiki百科
 
 http://www.jianshu.com/p/19d24e8d5a02  这个是phptrom的搭建
+
+https://github.com/shadowsocks/shadowsocks-windows  dong
+

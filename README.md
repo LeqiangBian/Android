@@ -181,3 +181,6 @@ https://github.com/shadowsocks/shadowsocks-windows  dong
 https://github.com/Makeblock-official/mBlock  电脑makeblock
 
 https://github.com/Tencent/tinker   腾讯热修复
+
+https://github.com/arut/nginx-rtmp-module#example-nginxconf  这个是流媒体服务器
+http://blog.csdn.net/xdwyyan/article/details/43198985

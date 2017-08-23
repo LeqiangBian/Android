@@ -187,3 +187,6 @@ http://blog.csdn.net/xdwyyan/article/details/43198985
 
 
 https://github.com/getlantern/lantern   lantern  源码
+
+
+https://github.com/shadowsocks/shadowsocks-android

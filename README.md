@@ -190,3 +190,5 @@ https://github.com/getlantern/lantern   lantern  源码
 
 
 https://github.com/shadowsocks/shadowsocks-android
+
+http://blog.csdn.net/dingjikerbo/article/details/49254573  ble连接问题一个优秀的帖子

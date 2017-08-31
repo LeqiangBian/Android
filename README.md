@@ -192,3 +192,7 @@ https://github.com/getlantern/lantern   lantern  源码
 https://github.com/shadowsocks/shadowsocks-android
 
 http://blog.csdn.net/dingjikerbo/article/details/49254573  ble连接问题一个优秀的帖子
+
+https://w3techs.com/sites  这个可以查看别人的网站用了哪些技术
+
+https://builtwith.com/ 查看网站用什么语言写的

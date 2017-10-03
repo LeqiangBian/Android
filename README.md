@@ -206,3 +206,5 @@ https://cn.vuejs.org/v2/api/
 
 
 https://apkpure.com/cn/  (google play download)
+
+http://ss.pythonic.life/  这个是背景的js很漂亮 可以好好研究一下

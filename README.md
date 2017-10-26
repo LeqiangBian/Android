@@ -208,3 +208,4 @@ https://cn.vuejs.org/v2/api/
 https://apkpure.com/cn/  (google play download)
 
 http://ss.pythonic.life/  这个是背景的js很漂亮 可以好好研究一下
+https://github.com/tyjoo/android-opencl-example 这个是opencl的demo不知道有没有问题

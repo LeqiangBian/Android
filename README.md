@@ -211,3 +211,5 @@ http://ss.pythonic.life/  这个是背景的js很漂亮 可以好好研究一�
 https://github.com/tyjoo/android-opencl-example 这个是opencl的demo不知道有没有问题
 
 http://www.jianshu.com/p/6332418b12b1  这个是ndk编译的方案
+
+https://github.com/brevent/Brevent.git  这个是黑域

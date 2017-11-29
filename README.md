@@ -216,3 +216,5 @@ https://github.com/brevent/Brevent.git  这个是黑域
 
 
 https://raw.githubusercontent.com/huanz/surge-hosts/master/hosts
+
+http://www.iconfont.cn/  这里面有各种svg彩色图标

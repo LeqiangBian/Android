@@ -218,3 +218,14 @@ https://github.com/brevent/Brevent.git  这个是黑域
 https://raw.githubusercontent.com/huanz/surge-hosts/master/hosts
 
 http://www.iconfont.cn/  这里面有各种svg彩色图标
+
+yum  update openssl
+
+在用npm的时候遇到的问题:
+npm config set registry https://registry.npm.taobao.org   换淘宝源
+yum update openssl                                         报错了就加上这句
+
+npm install
+npm run dev
+
+

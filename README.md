@@ -229,4 +229,4 @@ yum update openssl                                         �
 npm install
 npm run dev
 
-
+https://github.com/DT42/BerryNet    树莓派的东西

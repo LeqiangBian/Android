@@ -232,3 +232,5 @@ npm run dev
 https://github.com/DT42/BerryNet    树莓派的东西
 
 https://github.com/LitePalFramework/LitePal  sqlite数据库工具库 android代码
+
+https://github.com/jgilfelt/chuck  android 调试利器

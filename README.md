@@ -234,3 +234,9 @@ https://github.com/DT42/BerryNet    树莓派的东西
 https://github.com/LitePalFramework/LitePal  sqlite数据库工具库 android代码
 
 https://github.com/jgilfelt/chuck  android 调试利器
+
+beforeDescendants：viewgroup会优先其子类控件而获取到焦点
+
+afterDescendants：viewgroup只有当其子类控件不需要获取焦点时才获取焦点
+
+blocksDescendants：viewgroup会覆盖子类控件而直接获得焦点
